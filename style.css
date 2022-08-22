@@ -1,0 +1,21 @@
+*{
+
+}
+
+body{
+
+}
+
+header{
+  padding: 30px;
+  height: 80px;
+  color: white;
+  background-color: rgb(5, 31, 123);
+  display: flexbox;
+  align-items: center;
+  text-align: center;
+}
+
+footer{
+
+}
