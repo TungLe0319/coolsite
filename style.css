@@ -20,6 +20,9 @@ footer {
   border: 3px solid black;
 }
 
+.article-text{
+  font-size: 14px;
+}
 .block {
   margin-left: 20px;
   margin-right: 20px;
