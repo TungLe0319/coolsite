@@ -2,10 +2,7 @@
   font-family: 'Courier New', Courier, monospace;
 }
 
-
-
 header {
- 
   border: 3px solid black;
   padding: 20px;
   height: 80px;
@@ -42,7 +39,7 @@ footer {
   height: 50px;
 }
 
-.secondary-text{
+.secondary-text {
   margin-top: 3rem;
   margin-left: 5rem;
   margin-right: 2rem;
